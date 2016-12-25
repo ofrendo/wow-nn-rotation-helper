@@ -1,0 +1,880 @@
+0.000 Zhadokmage performs potion (1155000)
+0.000 Zhadokmage gains potion_of_deadly_grace_1 ( value=-0.00 )
+0.000 Zhadokmage performs pyroblast (1155000)
+0.750 Zhadokmage gains heating_up_1 ( value=-0.00 )
+0.750 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+0.772 Fluffy_Pillow gains poisoned_dreams_1 ( value=-0.00 )
+1.000 Zhadokmage gains bloodlust_1 ( value=-0.00 )
+1.000 Zhadokmage gains exhaustion_1 ( value=-0.00 )
+1.294 Zhadokmage performs rune_of_power (1127500)
+1.294 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+1.297 Zhadokmage performs meteor (1148901)
+2.298 Zhadokmage performs combustion (1154417)
+2.298 Zhadokmage gains combustion_1 ( value=-0.00 )
+2.298 Zhadokmage schedules execute for use_item_wriggling_sinew
+2.298 Zhadokmage gains maddening_whispers_10 ( value=-0.00 )
+2.298 Zhadokmage performs fire_blast (1044417)
+2.298 Fluffy_Pillow gains maddening_whispers_1 ( value=-0.00 )
+2.298 Zhadokmage loses heating_up
+2.298 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+2.298 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+2.298 Zhadokmage performs pyroblast (1033417)
+2.298 Zhadokmage loses hot_streak
+2.772 Fluffy_Pillow gains poisoned_dreams_2 ( value=-0.00 )
+3.048 Fluffy_Pillow gains maddening_whispers_2 ( value=-0.00 )
+3.048 Zhadokmage gains heating_up_1 ( value=-0.00 )
+3.048 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+3.288 Fluffy_Pillow gains maddening_whispers_3 ( value=-0.00 )
+3.299 Zhadokmage performs fire_blast (1022434)
+3.299 Fluffy_Pillow gains maddening_whispers_4 ( value=-0.00 )
+3.299 Zhadokmage loses heating_up
+3.299 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+3.299 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+3.299 Zhadokmage performs pyroblast (1011434)
+3.299 Zhadokmage loses hot_streak
+4.049 Fluffy_Pillow gains maddening_whispers_5 ( value=-0.00 )
+4.049 Zhadokmage gains heating_up_1 ( value=-0.00 )
+4.049 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+4.298 Zhadokmage performs fire_blast (1000417)
+4.298 Fluffy_Pillow gains maddening_whispers_6 ( value=-0.00 )
+4.298 Zhadokmage loses heating_up
+4.298 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+4.298 Zhadokmage performs pyroblast (989417)
+4.298 Zhadokmage loses hot_streak
+4.772 Fluffy_Pillow gains poisoned_dreams_3 ( value=-0.00 )
+5.048 Fluffy_Pillow gains maddening_whispers_7 ( value=-0.00 )
+5.048 Zhadokmage gains heating_up_1 ( value=-0.00 )
+5.298 Zhadokmage performs phoenixs_flames (978417)
+5.898 Fluffy_Pillow gains maddening_whispers_8 ( value=-0.00 )
+5.898 Zhadokmage loses heating_up
+5.898 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+6.298 Zhadokmage performs pyroblast (994917)
+6.298 Zhadokmage loses hot_streak
+6.772 Fluffy_Pillow gains poisoned_dreams_4 ( value=-0.00 )
+7.048 Fluffy_Pillow gains maddening_whispers_9 ( value=-0.00 )
+7.048 Zhadokmage gains heating_up_1 ( value=-0.00 )
+7.297 Zhadokmage performs phoenixs_flames (983901)
+7.897 Fluffy_Pillow gains maddening_whispers_10 ( value=-0.00 )
+7.897 Fluffy_Pillow loses maddening_whispers
+7.897 Zhadokmage loses maddening_whispers
+7.897 Zhadokmage loses heating_up
+7.897 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+7.897 Zhadokmage performs maddening_whispers (993801)
+8.299 Zhadokmage performs pyroblast (1000434)
+8.299 Zhadokmage loses hot_streak
+8.772 Fluffy_Pillow gains poisoned_dreams_5 ( value=-0.00 )
+9.049 Zhadokmage gains heating_up_1 ( value=-0.00 )
+9.299 Zhadokmage performs fire_blast (989434)
+9.299 Zhadokmage loses heating_up
+9.299 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+9.299 Zhadokmage performs pyroblast (978434)
+10.298 Zhadokmage performs pyroblast (967417)
+10.298 Zhadokmage loses hot_streak
+10.772 Fluffy_Pillow gains poisoned_dreams_6 ( value=-0.00 )
+11.048 Zhadokmage gains heating_up_1 ( value=-0.00 )
+11.294 Zhadokmage loses rune_of_power
+11.297 Zhadokmage performs phoenixs_flames (956401)
+11.897 Zhadokmage loses heating_up
+11.897 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+12.297 Zhadokmage performs pyroblast (972901)
+12.297 Zhadokmage loses hot_streak
+12.298 Zhadokmage loses combustion
+12.772 Fluffy_Pillow gains poisoned_dreams_7 ( value=-0.00 )
+13.047 Zhadokmage gains heating_up_1 ( value=-0.00 )
+14.291 Zhadokmage performs rune_of_power (969920)
+14.291 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+14.772 Fluffy_Pillow gains poisoned_dreams_8 ( value=-0.00 )
+15.653 Zhadokmage performs fireball (986420)
+15.657 Zhadokmage performs fire_blast (978841)
+15.657 Zhadokmage loses heating_up
+15.657 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+15.657 Zhadokmage performs pyroblast (967841)
+15.657 Zhadokmage loses hot_streak
+16.403 Zhadokmage loses pyretic_incantation
+16.403 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+16.407 Zhadokmage gains heating_up_1 ( value=-0.00 )
+16.407 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+16.772 Fluffy_Pillow gains poisoned_dreams_9 ( value=-0.00 )
+18.013 Zhadokmage performs fireball (975420)
+18.763 Zhadokmage loses heating_up
+18.763 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+18.763 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+18.763 Zhadokmage loses enhanced_pyrotechnics
+18.772 Fluffy_Pillow gains poisoned_dreams_10 ( value=-0.00 )
+19.374 Zhadokmage performs fireball (969920)
+19.380 Zhadokmage performs pyroblast (957770)
+19.380 Zhadokmage loses hot_streak
+20.124 Zhadokmage gains heating_up_1 ( value=-0.00 )
+20.124 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+20.130 Zhadokmage loses pyretic_incantation
+20.772 Fluffy_Pillow loses poisoned_dreams
+21.737 Zhadokmage performs fireball (946754)
+22.487 Zhadokmage loses heating_up
+22.487 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+22.487 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+23.099 Zhadokmage performs fireball (947227)
+23.103 Zhadokmage performs pyroblast (947700)
+23.103 Zhadokmage loses hot_streak
+23.849 Zhadokmage loses pyretic_incantation
+23.849 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+23.853 Zhadokmage gains heating_up_1 ( value=-0.00 )
+23.853 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+24.101 Zhadokmage performs fire_blast (936667)
+24.101 Zhadokmage loses heating_up
+24.101 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+24.101 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+24.101 Zhadokmage performs pyroblast (925667)
+24.101 Zhadokmage loses hot_streak
+24.291 Zhadokmage loses rune_of_power
+24.851 Zhadokmage gains heating_up_1 ( value=-0.00 )
+24.851 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+26.457 Zhadokmage performs fireball (914634)
+27.207 Zhadokmage loses heating_up
+27.207 Zhadokmage loses pyretic_incantation
+27.207 Zhadokmage gains enhanced_pyrotechnics_2 ( value=-0.00 )
+27.819 Zhadokmage performs fireball (936920)
+28.000 Zhadokmage loses potion_of_deadly_grace
+28.569 Zhadokmage gains enhanced_pyrotechnics_3 ( value=-0.00 )
+29.183 Zhadokmage performs fireball (915613)
+29.933 Zhadokmage gains heating_up_1 ( value=-0.00 )
+29.933 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+29.933 Zhadokmage loses enhanced_pyrotechnics
+30.545 Zhadokmage performs fireball (916086)
+31.295 Zhadokmage loses heating_up
+31.295 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+31.295 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+31.907 Zhadokmage performs fireball (936920)
+31.911 Zhadokmage performs pyroblast (917032)
+31.911 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+31.911 Zhadokmage loses hot_streak
+32.657 Zhadokmage gains heating_up_1 ( value=-0.00 )
+32.657 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+32.661 Zhadokmage loses pyretic_incantation
+35.896 Zhadokmage performs pyroblast (905999)
+35.896 Zhadokmage loses kaelthas_ultimate_ability
+35.900 Zhadokmage performs fire_blast (927850)
+35.900 Zhadokmage loses heating_up
+35.900 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+35.900 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+36.646 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+37.258 Zhadokmage performs fireball (916850)
+37.263 Zhadokmage performs pyroblast (917340)
+37.263 Zhadokmage loses hot_streak
+38.008 Zhadokmage gains heating_up_1 ( value=-0.00 )
+38.008 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+38.013 Zhadokmage loses pyretic_incantation
+38.262 Zhadokmage performs fire_blast (906323)
+38.262 Zhadokmage loses heating_up
+38.262 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+38.262 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+39.620 Zhadokmage performs fireball (895323)
+39.624 Zhadokmage performs pyroblast (895796)
+39.624 Zhadokmage loses hot_streak
+40.370 Zhadokmage gains heating_up_1 ( value=-0.00 )
+40.370 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+40.374 Zhadokmage loses heating_up
+40.374 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+40.374 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+41.000 Zhadokmage loses bloodlust
+41.981 Zhadokmage performs fireball (903920)
+42.731 Zhadokmage loses pyretic_incantation
+42.731 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+43.278 Zhadokmage performs rune_of_power (885236)
+43.278 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+43.282 Zhadokmage performs pyroblast (906653)
+43.282 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+43.282 Zhadokmage loses hot_streak
+44.032 Zhadokmage gains heating_up_1 ( value=-0.00 )
+44.032 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+48.465 Zhadokmage performs pyroblast (920420)
+48.465 Zhadokmage loses kaelthas_ultimate_ability
+48.470 Zhadokmage performs meteor (937255)
+49.215 Zhadokmage loses heating_up
+49.215 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+49.215 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+49.769 Zhadokmage performs pyroblast (947689)
+49.769 Zhadokmage loses hot_streak
+50.519 Zhadokmage loses pyretic_incantation
+51.068 Zhadokmage performs fire_blast (941622)
+51.068 Zhadokmage gains heating_up_1 ( value=-0.00 )
+51.068 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+51.068 Zhadokmage performs phoenixs_flames (930622)
+51.668 Zhadokmage loses heating_up
+51.668 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+51.668 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+52.366 Zhadokmage performs pyroblast (952039)
+52.366 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+52.366 Zhadokmage loses hot_streak
+53.116 Zhadokmage gains heating_up_1 ( value=-0.00 )
+53.116 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+53.278 Zhadokmage loses rune_of_power
+57.547 Zhadokmage performs pyroblast (1001957)
+57.547 Zhadokmage loses kaelthas_ultimate_ability
+57.553 Zhadokmage performs fire_blast (982625)
+57.553 Zhadokmage loses heating_up
+57.553 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+57.553 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+57.731 Zhadokmage loses enhanced_pyrotechnics
+58.297 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+59.319 Zhadokmage performs fireball (979957)
+59.321 Zhadokmage performs pyroblast (978797)
+59.321 Zhadokmage loses hot_streak
+60.069 Zhadokmage gains heating_up_1 ( value=-0.00 )
+60.071 Zhadokmage loses heating_up
+60.071 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+62.383 Zhadokmage performs fireball (975420)
+62.388 Zhadokmage performs pyroblast (979902)
+62.388 Zhadokmage loses hot_streak
+63.133 Zhadokmage gains heating_up_1 ( value=-0.00 )
+63.138 Zhadokmage loses heating_up
+63.138 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+65.450 Zhadokmage performs fireball (975420)
+65.455 Zhadokmage performs pyroblast (981008)
+65.455 Zhadokmage loses hot_streak
+66.200 Zhadokmage loses pyretic_incantation
+66.200 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+66.205 Zhadokmage gains heating_up_1 ( value=-0.00 )
+66.205 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+66.755 Zhadokmage performs fire_blast (974958)
+66.755 Zhadokmage loses heating_up
+66.755 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+66.755 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+68.521 Zhadokmage performs fireball (980920)
+68.524 Zhadokmage performs pyroblast (971146)
+68.524 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+68.524 Zhadokmage loses hot_streak
+69.271 Zhadokmage gains heating_up_1 ( value=-0.00 )
+69.271 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+69.271 Zhadokmage loses enhanced_pyrotechnics
+69.274 Zhadokmage loses heating_up
+69.274 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+69.274 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+69.823 Zhadokmage performs pyroblast (965080)
+69.823 Zhadokmage loses hot_streak
+70.573 Zhadokmage loses pyretic_incantation
+75.005 Zhadokmage performs pyroblast (1002920)
+75.005 Zhadokmage loses kaelthas_ultimate_ability
+75.755 Zhadokmage gains heating_up_1 ( value=-0.00 )
+75.755 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+76.775 Zhadokmage performs fireball (995649)
+76.780 Zhadokmage performs fire_blast (1002870)
+76.780 Zhadokmage loses heating_up
+76.780 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+76.780 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+76.780 Zhadokmage performs pyroblast (991870)
+76.780 Zhadokmage loses hot_streak
+77.525 Zhadokmage loses pyretic_incantation
+77.525 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+79.845 Zhadokmage performs fireball (985804)
+80.595 Zhadokmage gains heating_up_1 ( value=-0.00 )
+80.595 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+80.595 Zhadokmage loses enhanced_pyrotechnics
+81.616 Zhadokmage performs fireball (993025)
+82.366 Zhadokmage loses heating_up
+82.366 Zhadokmage loses pyretic_incantation
+82.366 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+82.913 Zhadokmage performs rune_of_power (1000214)
+82.913 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+82.917 Zhadokmage performs fire_blast (1021631)
+82.917 Zhadokmage gains heating_up_1 ( value=-0.00 )
+82.917 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+82.917 Zhadokmage performs phoenixs_flames (1010631)
+83.517 Zhadokmage loses heating_up
+83.517 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+83.517 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+84.215 Zhadokmage performs pyroblast (1032048)
+84.965 Zhadokmage loses pyretic_incantation
+85.513 Zhadokmage performs pyroblast (1025965)
+86.263 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+86.810 Zhadokmage performs pyroblast (1019865)
+86.810 Zhadokmage loses hot_streak
+87.560 Zhadokmage gains heating_up_1 ( value=-0.00 )
+87.560 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+88.108 Zhadokmage performs fire_blast (1013782)
+88.108 Zhadokmage loses heating_up
+88.108 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+88.108 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+88.108 Zhadokmage performs pyroblast (1002782)
+88.108 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+88.108 Zhadokmage loses hot_streak
+88.858 Zhadokmage gains heating_up_1 ( value=-0.00 )
+88.858 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+92.913 Zhadokmage loses rune_of_power
+93.289 Zhadokmage performs pyroblast (1035920)
+93.289 Zhadokmage loses kaelthas_ultimate_ability
+94.039 Zhadokmage loses heating_up
+94.039 Zhadokmage loses pyretic_incantation
+95.058 Zhadokmage performs fireball (1057920)
+95.808 Zhadokmage gains heating_up_1 ( value=-0.00 )
+95.808 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+95.808 Zhadokmage loses enhanced_pyrotechnics
+96.828 Zhadokmage performs fireball (1040523)
+96.834 Zhadokmage performs fire_blast (1047761)
+96.834 Zhadokmage loses heating_up
+96.834 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+96.834 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+96.834 Zhadokmage performs pyroblast (1036761)
+96.834 Zhadokmage loses hot_streak
+97.578 Zhadokmage gains heating_up_1 ( value=-0.00 )
+97.578 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+97.584 Zhadokmage loses heating_up
+97.584 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+97.584 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+99.900 Zhadokmage performs fireball (1030711)
+99.905 Zhadokmage performs pyroblast (1037933)
+99.905 Zhadokmage loses hot_streak
+100.650 Zhadokmage gains heating_up_1 ( value=-0.00 )
+100.650 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+100.655 Zhadokmage loses pyretic_incantation
+102.970 Zhadokmage performs fireball (1031866)
+102.976 Zhadokmage performs fire_blast (1039104)
+102.976 Zhadokmage loses heating_up
+102.976 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+102.976 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+102.976 Zhadokmage performs pyroblast (1028104)
+102.976 Zhadokmage loses hot_streak
+103.720 Zhadokmage loses pyretic_incantation
+103.720 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+103.726 Zhadokmage gains heating_up_1 ( value=-0.00 )
+103.726 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+106.042 Zhadokmage performs fireball (1022054)
+106.792 Zhadokmage loses heating_up
+106.792 Zhadokmage loses pyretic_incantation
+106.792 Zhadokmage gains enhanced_pyrotechnics_2 ( value=-0.00 )
+107.813 Zhadokmage performs fireball (1041420)
+108.563 Zhadokmage gains heating_up_1 ( value=-0.00 )
+108.563 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+108.563 Zhadokmage loses enhanced_pyrotechnics
+109.584 Zhadokmage performs fireball (1036497)
+110.334 Zhadokmage loses heating_up
+110.334 Zhadokmage loses pyretic_incantation
+110.334 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+110.363 Fluffy_Pillow gains poisoned_dreams_1 ( value=-0.00 )
+111.353 Zhadokmage performs fireball (1063420)
+112.103 Zhadokmage gains heating_up_1 ( value=-0.00 )
+112.103 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+112.103 Zhadokmage loses enhanced_pyrotechnics
+112.363 Fluffy_Pillow gains poisoned_dreams_2 ( value=-0.00 )
+113.124 Zhadokmage performs fireball (1074420)
+113.874 Zhadokmage loses heating_up
+113.874 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+113.874 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+114.363 Fluffy_Pillow gains poisoned_dreams_3 ( value=-0.00 )
+114.893 Zhadokmage performs fireball (1085420)
+114.899 Zhadokmage performs pyroblast (1065334)
+114.899 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+114.899 Zhadokmage loses hot_streak
+115.643 Zhadokmage loses pyretic_incantation
+115.643 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+116.363 Fluffy_Pillow gains poisoned_dreams_4 ( value=-0.00 )
+118.363 Fluffy_Pillow gains poisoned_dreams_5 ( value=-0.00 )
+120.081 Zhadokmage performs pyroblast (1118420)
+120.081 Zhadokmage loses kaelthas_ultimate_ability
+120.085 Zhadokmage performs potion (1095903)
+120.085 Zhadokmage gains potion_of_deadly_grace_1 ( value=-0.00 )
+120.085 Zhadokmage performs phoenixs_flames (1095903)
+120.363 Fluffy_Pillow gains poisoned_dreams_6 ( value=-0.00 )
+120.685 Zhadokmage gains heating_up_1 ( value=-0.00 )
+120.685 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+120.831 Zhadokmage loses heating_up
+120.831 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+120.831 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+122.363 Fluffy_Pillow gains poisoned_dreams_7 ( value=-0.00 )
+122.678 Zhadokmage performs rune_of_power (1123920)
+122.678 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+122.683 Zhadokmage performs meteor (1138770)
+123.980 Zhadokmage performs combustion (1149170)
+123.980 Zhadokmage gains combustion_1 ( value=-0.00 )
+123.980 Zhadokmage schedules execute for use_item_wriggling_sinew
+123.980 Zhadokmage gains maddening_whispers_10 ( value=-0.00 )
+123.980 Zhadokmage performs pyroblast (1039170)
+123.980 Zhadokmage loses hot_streak
+124.363 Fluffy_Pillow gains poisoned_dreams_8 ( value=-0.00 )
+124.730 Fluffy_Pillow gains maddening_whispers_1 ( value=-0.00 )
+124.730 Zhadokmage gains heating_up_1 ( value=-0.00 )
+124.730 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+125.271 Fluffy_Pillow gains maddening_whispers_2 ( value=-0.00 )
+125.279 Zhadokmage performs fire_blast (1033104)
+125.279 Fluffy_Pillow gains maddening_whispers_3 ( value=-0.00 )
+125.279 Zhadokmage loses heating_up
+125.279 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+125.279 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+125.279 Zhadokmage performs pyroblast (1022104)
+125.279 Zhadokmage loses hot_streak
+126.029 Fluffy_Pillow gains maddening_whispers_4 ( value=-0.00 )
+126.029 Zhadokmage gains heating_up_1 ( value=-0.00 )
+126.029 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+126.363 Fluffy_Pillow gains poisoned_dreams_9 ( value=-0.00 )
+126.577 Zhadokmage performs fire_blast (1016021)
+126.577 Fluffy_Pillow gains maddening_whispers_5 ( value=-0.00 )
+126.577 Zhadokmage loses heating_up
+126.577 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+126.577 Zhadokmage performs pyroblast (1005021)
+126.577 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+126.577 Zhadokmage loses hot_streak
+127.327 Fluffy_Pillow gains maddening_whispers_6 ( value=-0.00 )
+127.327 Zhadokmage gains heating_up_1 ( value=-0.00 )
+128.363 Fluffy_Pillow gains poisoned_dreams_10 ( value=-0.00 )
+130.363 Fluffy_Pillow loses poisoned_dreams
+130.643 Zhadokmage loses enhanced_pyrotechnics
+131.758 Zhadokmage performs pyroblast (1054972)
+131.758 Zhadokmage loses kaelthas_ultimate_ability
+131.762 Zhadokmage performs fire_blast (1035573)
+131.762 Fluffy_Pillow gains maddening_whispers_7 ( value=-0.00 )
+131.762 Zhadokmage loses heating_up
+131.762 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+131.762 Zhadokmage performs pyroblast (1024573)
+131.762 Zhadokmage loses hot_streak
+132.508 Fluffy_Pillow gains maddening_whispers_8 ( value=-0.00 )
+132.508 Zhadokmage gains heating_up_1 ( value=-0.00 )
+132.512 Fluffy_Pillow gains maddening_whispers_9 ( value=-0.00 )
+132.512 Zhadokmage loses heating_up
+132.512 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+132.678 Zhadokmage loses rune_of_power
+133.061 Zhadokmage performs pyroblast (1018507)
+133.061 Zhadokmage loses hot_streak
+133.811 Fluffy_Pillow gains maddening_whispers_10 ( value=-0.00 )
+133.811 Fluffy_Pillow loses maddening_whispers
+133.811 Zhadokmage loses maddening_whispers
+133.811 Zhadokmage gains heating_up_1 ( value=-0.00 )
+133.811 Zhadokmage performs maddening_whispers (991007)
+133.980 Zhadokmage loses combustion
+136.124 Zhadokmage performs fireball (1035920)
+136.874 Zhadokmage loses heating_up
+136.874 Zhadokmage loses pyretic_incantation
+136.874 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+137.895 Zhadokmage performs fireball (1046920)
+138.645 Zhadokmage gains heating_up_1 ( value=-0.00 )
+138.645 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+138.645 Zhadokmage loses enhanced_pyrotechnics
+139.666 Zhadokmage performs fireball (1041420)
+140.416 Zhadokmage loses heating_up
+140.416 Zhadokmage loses pyretic_incantation
+140.416 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+141.437 Zhadokmage performs fireball (1034072)
+142.187 Zhadokmage gains enhanced_pyrotechnics_2 ( value=-0.00 )
+143.208 Zhadokmage performs fireball (1063420)
+143.958 Zhadokmage gains enhanced_pyrotechnics_3 ( value=-0.00 )
+144.978 Zhadokmage performs fireball (1048498)
+145.728 Zhadokmage gains heating_up_1 ( value=-0.00 )
+145.728 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+145.728 Zhadokmage loses enhanced_pyrotechnics
+146.748 Zhadokmage performs fireball (1055703)
+146.754 Zhadokmage performs fire_blast (1062941)
+146.754 Zhadokmage loses heating_up
+146.754 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+146.754 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+146.754 Zhadokmage performs pyroblast (1051941)
+146.754 Zhadokmage loses hot_streak
+147.498 Zhadokmage gains heating_up_1 ( value=-0.00 )
+147.498 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+147.504 Zhadokmage loses pyretic_incantation
+149.818 Zhadokmage performs fireball (1074420)
+149.823 Zhadokmage performs fire_blast (1053080)
+149.823 Zhadokmage loses heating_up
+149.823 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+149.823 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+149.823 Zhadokmage performs pyroblast (1042080)
+149.823 Zhadokmage loses hot_streak
+150.085 Zhadokmage loses potion_of_deadly_grace
+150.568 Zhadokmage loses pyretic_incantation
+150.568 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+152.889 Zhadokmage performs fireball (1036030)
+153.639 Zhadokmage gains heating_up_1 ( value=-0.00 )
+153.639 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+153.639 Zhadokmage loses enhanced_pyrotechnics
+154.659 Zhadokmage performs fireball (1057920)
+155.409 Zhadokmage loses heating_up
+155.409 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+155.409 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+156.430 Zhadokmage performs fireball (1050456)
+156.435 Zhadokmage performs pyroblast (1057678)
+156.435 Zhadokmage loses hot_streak
+157.180 Zhadokmage loses pyretic_incantation
+157.180 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+159.499 Zhadokmage performs fireball (1051595)
+160.249 Zhadokmage gains enhanced_pyrotechnics_2 ( value=-0.00 )
+161.270 Zhadokmage performs fireball (1058816)
+162.020 Zhadokmage gains enhanced_pyrotechnics_3 ( value=-0.00 )
+162.589 Zhadokmage performs rune_of_power (1066038)
+162.589 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+162.593 Zhadokmage performs fire_blast (1087785)
+162.593 Zhadokmage gains heating_up_1 ( value=-0.00 )
+162.593 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+162.593 Zhadokmage performs phoenixs_flames (1076785)
+163.193 Zhadokmage loses heating_up
+163.193 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+163.193 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+163.892 Zhadokmage performs pyroblast (1098218)
+163.892 Zhadokmage loses hot_streak
+164.642 Zhadokmage loses pyretic_incantation
+165.190 Zhadokmage performs fire_blast (1092135)
+165.190 Zhadokmage gains heating_up_1 ( value=-0.00 )
+165.190 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+165.190 Zhadokmage performs phoenixs_flames (1081135)
+165.790 Zhadokmage loses heating_up
+165.790 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+165.790 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+166.488 Zhadokmage performs pyroblast (1102552)
+166.488 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+167.238 Zhadokmage loses pyretic_incantation
+167.787 Zhadokmage performs pyroblast (1096486)
+167.787 Zhadokmage loses hot_streak
+168.537 Zhadokmage gains heating_up_1 ( value=-0.00 )
+168.537 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+169.086 Zhadokmage performs meteor (1090419)
+172.589 Zhadokmage loses rune_of_power
+174.268 Zhadokmage performs pyroblast (1155000)
+174.268 Zhadokmage loses kaelthas_ultimate_ability
+174.537 Zhadokmage loses pyretic_incantation
+175.018 Zhadokmage loses heating_up
+176.039 Zhadokmage performs fireball (1150699)
+176.789 Zhadokmage gains heating_up_1 ( value=-0.00 )
+176.789 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+176.789 Zhadokmage loses enhanced_pyrotechnics
+177.809 Zhadokmage performs fireball (1155000)
+177.814 Zhadokmage performs fire_blast (1133083)
+177.814 Zhadokmage loses heating_up
+177.814 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+177.814 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+177.814 Zhadokmage performs pyroblast (1122083)
+177.814 Zhadokmage loses hot_streak
+178.559 Zhadokmage gains heating_up_1 ( value=-0.00 )
+178.559 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+178.564 Zhadokmage loses pyretic_incantation
+180.878 Zhadokmage performs fireball (1143571)
+181.628 Zhadokmage loses heating_up
+181.628 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+181.628 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+182.649 Zhadokmage performs fireball (1123221)
+182.653 Zhadokmage performs pyroblast (1130426)
+182.653 Zhadokmage loses hot_streak
+183.399 Zhadokmage loses pyretic_incantation
+183.399 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+183.403 Zhadokmage gains heating_up_1 ( value=-0.00 )
+183.403 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+185.717 Zhadokmage performs fireball (1124343)
+185.722 Zhadokmage performs fire_blast (1131565)
+185.722 Zhadokmage loses heating_up
+185.722 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+185.722 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+185.722 Zhadokmage performs pyroblast (1120565)
+185.722 Zhadokmage loses hot_streak
+186.467 Zhadokmage gains heating_up_1 ( value=-0.00 )
+186.467 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+186.467 Zhadokmage loses enhanced_pyrotechnics
+186.472 Zhadokmage loses heating_up
+186.472 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+186.472 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+186.501 Fluffy_Pillow gains poisoned_dreams_1 ( value=-0.00 )
+188.501 Fluffy_Pillow gains poisoned_dreams_2 ( value=-0.00 )
+188.788 Zhadokmage performs fireball (1143571)
+188.794 Zhadokmage performs pyroblast (1121753)
+189.538 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+190.501 Fluffy_Pillow gains poisoned_dreams_3 ( value=-0.00 )
+191.858 Zhadokmage performs fireball (1143571)
+191.863 Zhadokmage performs pyroblast (1122891)
+191.863 Zhadokmage loses hot_streak
+192.501 Fluffy_Pillow gains poisoned_dreams_4 ( value=-0.00 )
+192.608 Zhadokmage loses pyretic_incantation
+192.608 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+194.501 Fluffy_Pillow gains poisoned_dreams_5 ( value=-0.00 )
+194.928 Zhadokmage performs fireball (1143571)
+195.678 Zhadokmage gains heating_up_1 ( value=-0.00 )
+195.678 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+195.678 Zhadokmage loses enhanced_pyrotechnics
+196.501 Fluffy_Pillow gains poisoned_dreams_6 ( value=-0.00 )
+196.699 Zhadokmage performs fireball (1138071)
+196.705 Zhadokmage performs fire_blast (1131284)
+196.705 Zhadokmage loses heating_up
+196.705 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+196.705 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+196.705 Zhadokmage performs pyroblast (1120284)
+196.705 Zhadokmage loses hot_streak
+197.449 Zhadokmage gains heating_up_1 ( value=-0.00 )
+197.449 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+197.455 Zhadokmage loses pyretic_incantation
+198.501 Fluffy_Pillow gains poisoned_dreams_7 ( value=-0.00 )
+199.769 Zhadokmage performs fireball (1127071)
+200.501 Fluffy_Pillow gains poisoned_dreams_8 ( value=-0.00 )
+200.519 Zhadokmage loses heating_up
+200.519 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+200.519 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+201.540 Zhadokmage performs fireball (1138071)
+202.290 Zhadokmage loses pyretic_incantation
+202.290 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+202.501 Fluffy_Pillow gains poisoned_dreams_9 ( value=-0.00 )
+202.840 Zhadokmage performs rune_of_power (1149071)
+202.840 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+202.843 Zhadokmage performs pyroblast (1150061)
+202.843 Zhadokmage loses hot_streak
+203.593 Zhadokmage gains heating_up_1 ( value=-0.00 )
+203.593 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+204.141 Zhadokmage performs fire_blast (1143978)
+204.141 Zhadokmage loses heating_up
+204.141 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+204.141 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+204.141 Zhadokmage performs pyroblast (1132978)
+204.141 Zhadokmage loses hot_streak
+204.501 Fluffy_Pillow gains poisoned_dreams_10 ( value=-0.00 )
+204.891 Zhadokmage gains heating_up_1 ( value=-0.00 )
+204.891 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+205.439 Zhadokmage performs phoenixs_flames (1126895)
+206.039 Zhadokmage loses heating_up
+206.039 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+206.039 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+206.501 Fluffy_Pillow loses poisoned_dreams
+206.740 Zhadokmage performs pyroblast (1148362)
+206.740 Zhadokmage loses hot_streak
+207.490 Zhadokmage gains heating_up_1 ( value=-0.00 )
+207.490 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+208.038 Zhadokmage performs fire_blast (1142279)
+208.038 Zhadokmage loses heating_up
+208.038 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+208.038 Zhadokmage performs pyroblast (1131279)
+208.038 Zhadokmage loses hot_streak
+208.788 Zhadokmage gains heating_up_1 ( value=-0.00 )
+209.335 Zhadokmage performs phoenixs_flames (1125179)
+209.935 Zhadokmage loses heating_up
+209.935 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+210.636 Zhadokmage performs pyroblast (1146646)
+210.636 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+210.636 Zhadokmage loses hot_streak
+211.386 Zhadokmage gains heating_up_1 ( value=-0.00 )
+212.840 Zhadokmage loses rune_of_power
+215.817 Zhadokmage performs pyroblast (1140563)
+215.817 Zhadokmage loses kaelthas_ultimate_ability
+215.823 Zhadokmage performs fire_blast (1127599)
+215.823 Zhadokmage loses heating_up
+215.823 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+217.290 Zhadokmage loses enhanced_pyrotechnics
+217.589 Zhadokmage performs fireball (1132439)
+217.593 Zhadokmage performs pyroblast (1123804)
+217.593 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+217.593 Zhadokmage loses hot_streak
+218.339 Zhadokmage loses pyretic_incantation
+218.339 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+218.343 Zhadokmage gains heating_up_1 ( value=-0.00 )
+218.343 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+222.775 Zhadokmage performs pyroblast (1132439)
+222.775 Zhadokmage loses kaelthas_ultimate_ability
+223.525 Zhadokmage loses heating_up
+223.525 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+223.525 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+224.545 Zhadokmage performs fireball (1144132)
+224.548 Zhadokmage performs pyroblast (1133050)
+224.548 Zhadokmage loses hot_streak
+225.295 Zhadokmage gains heating_up_1 ( value=-0.00 )
+225.295 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+225.295 Zhadokmage loses enhanced_pyrotechnics
+225.298 Zhadokmage loses heating_up
+225.298 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+225.298 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+227.613 Zhadokmage performs fireball (1126983)
+227.616 Zhadokmage performs pyroblast (1133050)
+227.616 Zhadokmage loses hot_streak
+228.363 Zhadokmage loses pyretic_incantation
+228.363 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+230.677 Zhadokmage performs fireball (1126917)
+231.427 Zhadokmage gains enhanced_pyrotechnics_2 ( value=-0.00 )
+232.450 Zhadokmage performs fireball (1133116)
+233.200 Zhadokmage gains heating_up_1 ( value=-0.00 )
+233.200 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+233.200 Zhadokmage loses enhanced_pyrotechnics
+234.220 Zhadokmage performs fireball (1133066)
+234.226 Zhadokmage performs fire_blast (1133099)
+234.226 Zhadokmage loses heating_up
+234.226 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+234.226 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+234.226 Zhadokmage performs pyroblast (1122099)
+234.226 Zhadokmage loses hot_streak
+234.970 Zhadokmage loses pyretic_incantation
+234.970 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+237.290 Zhadokmage performs fireball (1116016)
+238.040 Zhadokmage gains heating_up_1 ( value=-0.00 )
+238.040 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+238.040 Zhadokmage loses enhanced_pyrotechnics
+239.060 Zhadokmage performs fireball (1131290)
+239.810 Zhadokmage loses heating_up
+239.810 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+239.810 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+240.829 Zhadokmage performs fireball (1155000)
+240.835 Zhadokmage performs pyroblast (1133099)
+240.835 Zhadokmage loses hot_streak
+241.579 Zhadokmage gains heating_up_1 ( value=-0.00 )
+241.579 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+241.585 Zhadokmage loses heating_up
+241.585 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+241.585 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+243.426 Zhadokmage performs rune_of_power (1127000)
+243.426 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+243.430 Zhadokmage performs meteor (1148417)
+244.729 Zhadokmage performs combustion (1155000)
+244.729 Zhadokmage gains combustion_1 ( value=-0.00 )
+244.729 Zhadokmage schedules execute for use_item_wriggling_sinew
+244.729 Zhadokmage gains maddening_whispers_10 ( value=-0.00 )
+244.729 Zhadokmage performs pyroblast (1045000)
+244.729 Zhadokmage loses hot_streak
+245.479 Fluffy_Pillow gains maddening_whispers_1 ( value=-0.00 )
+245.479 Zhadokmage gains heating_up_1 ( value=-0.00 )
+245.479 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+246.018 Fluffy_Pillow gains maddening_whispers_2 ( value=-0.00 )
+246.028 Zhadokmage performs fire_blast (1038934)
+246.028 Fluffy_Pillow gains maddening_whispers_3 ( value=-0.00 )
+246.028 Zhadokmage loses heating_up
+246.028 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+246.028 Zhadokmage performs pyroblast (1027934)
+246.028 Zhadokmage loses hot_streak
+246.778 Fluffy_Pillow gains maddening_whispers_4 ( value=-0.00 )
+246.778 Zhadokmage gains heating_up_1 ( value=-0.00 )
+247.326 Zhadokmage performs fire_blast (1021851)
+247.326 Fluffy_Pillow gains maddening_whispers_5 ( value=-0.00 )
+247.326 Zhadokmage loses heating_up
+247.326 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+247.326 Zhadokmage performs pyroblast (1010851)
+247.326 Zhadokmage loses hot_streak
+248.076 Fluffy_Pillow gains maddening_whispers_6 ( value=-0.00 )
+248.076 Zhadokmage gains heating_up_1 ( value=-0.00 )
+248.626 Zhadokmage performs phoenixs_flames (1004801)
+249.226 Fluffy_Pillow gains maddening_whispers_7 ( value=-0.00 )
+249.226 Zhadokmage loses heating_up
+249.226 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+249.924 Zhadokmage performs pyroblast (1026218)
+250.674 Fluffy_Pillow gains maddening_whispers_8 ( value=-0.00 )
+251.223 Zhadokmage performs pyroblast (1020151)
+251.223 Zhadokmage loses hot_streak
+251.973 Fluffy_Pillow gains maddening_whispers_9 ( value=-0.00 )
+251.973 Zhadokmage gains heating_up_1 ( value=-0.00 )
+252.522 Zhadokmage performs fire_blast (1014085)
+252.522 Fluffy_Pillow gains maddening_whispers_10 ( value=-0.00 )
+252.522 Fluffy_Pillow loses maddening_whispers
+252.522 Zhadokmage loses maddening_whispers
+252.522 Zhadokmage loses heating_up
+252.522 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+252.522 Zhadokmage performs maddening_whispers (1003085)
+252.522 Zhadokmage performs pyroblast (1003085)
+252.522 Zhadokmage loses hot_streak
+253.272 Zhadokmage gains heating_up_1 ( value=-0.00 )
+253.426 Zhadokmage loses rune_of_power
+253.819 Zhadokmage performs phoenixs_flames (996985)
+254.419 Zhadokmage loses heating_up
+254.419 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+254.729 Zhadokmage loses combustion
+255.119 Zhadokmage performs pyroblast (1018435)
+255.119 Zhadokmage loses hot_streak
+255.869 Zhadokmage gains heating_up_1 ( value=-0.00 )
+258.185 Zhadokmage performs fireball (1034891)
+258.935 Zhadokmage loses heating_up
+258.935 Zhadokmage loses pyretic_incantation
+258.935 Zhadokmage gains enhanced_pyrotechnics_1 ( value=-0.00 )
+259.954 Zhadokmage performs fireball (1019574)
+260.704 Zhadokmage gains heating_up_1 ( value=-0.00 )
+260.704 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+260.704 Zhadokmage loses enhanced_pyrotechnics
+261.725 Zhadokmage performs fireball (1026795)
+261.730 Zhadokmage performs fire_blast (1034017)
+261.730 Zhadokmage loses heating_up
+261.730 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+261.730 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+261.730 Zhadokmage performs pyroblast (1023017)
+261.730 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+261.730 Zhadokmage loses hot_streak
+262.475 Zhadokmage gains heating_up_1 ( value=-0.00 )
+262.475 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+262.480 Zhadokmage loses heating_up
+262.480 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+262.480 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+263.029 Zhadokmage performs pyroblast (1016950)
+263.029 Zhadokmage loses hot_streak
+263.779 Zhadokmage gains heating_up_1 ( value=-0.00 )
+263.779 Zhadokmage gains pyretic_incantation_5 ( value=-0.00 )
+268.210 Zhadokmage performs pyroblast (1067891)
+268.210 Zhadokmage loses kaelthas_ultimate_ability
+268.960 Zhadokmage loses heating_up
+268.960 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+269.981 Zhadokmage performs fireball (1047519)
+269.985 Zhadokmage performs pyroblast (1054724)
+269.985 Zhadokmage loses hot_streak
+270.731 Zhadokmage gains heating_up_1 ( value=-0.00 )
+270.735 Zhadokmage loses heating_up
+270.735 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+273.050 Zhadokmage performs fireball (1073391)
+273.053 Zhadokmage performs pyroblast (1055846)
+273.053 Zhadokmage loses hot_streak
+273.800 Zhadokmage gains heating_up_1 ( value=-0.00 )
+273.803 Zhadokmage loses pyretic_incantation
+274.351 Zhadokmage performs fire_blast (1049763)
+274.351 Zhadokmage loses heating_up
+274.351 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+274.351 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+276.117 Zhadokmage performs fireball (1038763)
+276.121 Zhadokmage performs pyroblast (1045968)
+276.121 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+276.121 Zhadokmage loses hot_streak
+276.867 Zhadokmage gains heating_up_1 ( value=-0.00 )
+276.867 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+276.871 Zhadokmage loses heating_up
+276.871 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+276.871 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+277.418 Zhadokmage performs pyroblast (1039869)
+278.168 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+278.716 Zhadokmage performs pyroblast (1033786)
+278.716 Zhadokmage loses hot_streak
+279.466 Zhadokmage loses pyretic_incantation
+283.898 Zhadokmage performs pyroblast (1056891)
+283.898 Zhadokmage loses kaelthas_ultimate_ability
+284.648 Zhadokmage gains heating_up_1 ( value=-0.00 )
+284.648 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+285.197 Zhadokmage performs rune_of_power (1064371)
+285.197 Zhadokmage gains rune_of_power_1 ( value=-0.00 )
+285.204 Zhadokmage performs fire_blast (1085838)
+285.204 Zhadokmage loses heating_up
+285.204 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+285.204 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+285.204 Zhadokmage performs pyroblast (1074838)
+285.204 Zhadokmage gains kaelthas_ultimate_ability_1 ( value=-0.00 )
+285.204 Zhadokmage loses hot_streak
+285.954 Zhadokmage loses pyretic_incantation
+290.384 Zhadokmage performs pyroblast (1068738)
+290.384 Zhadokmage loses kaelthas_ultimate_ability
+290.389 Zhadokmage performs meteor (1105390)
+291.134 Zhadokmage gains heating_up_1 ( value=-0.00 )
+291.134 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+291.690 Zhadokmage performs fire_blast (1115857)
+291.690 Zhadokmage loses heating_up
+291.690 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+291.690 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+291.690 Zhadokmage performs pyroblast (1104857)
+292.440 Zhadokmage loses pyretic_incantation
+292.988 Zhadokmage performs pyroblast (1098774)
+292.988 Zhadokmage loses hot_streak
+293.738 Zhadokmage gains heating_up_1 ( value=-0.00 )
+293.738 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+294.287 Zhadokmage performs fire_blast (1092707)
+294.287 Zhadokmage loses heating_up
+294.287 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+294.287 Zhadokmage gains pyretic_incantation_2 ( value=-0.00 )
+294.287 Zhadokmage performs pyroblast (1081707)
+294.287 Zhadokmage loses hot_streak
+295.037 Zhadokmage gains heating_up_1 ( value=-0.00 )
+295.037 Zhadokmage gains pyretic_incantation_3 ( value=-0.00 )
+295.197 Zhadokmage loses rune_of_power
+295.587 Zhadokmage performs phoenixs_flames (1075657)
+296.187 Zhadokmage loses heating_up
+296.187 Zhadokmage gains hot_streak_1 ( value=-0.00 )
+296.187 Zhadokmage gains pyretic_incantation_4 ( value=-0.00 )
+296.886 Zhadokmage performs pyroblast (1097091)
+296.886 Zhadokmage loses hot_streak
+297.636 Zhadokmage loses pyretic_incantation
+298.186 Zhadokmage performs phoenixs_flames (1091041)
+298.786 Zhadokmage gains heating_up_1 ( value=-0.00 )
+298.786 Zhadokmage gains pyretic_incantation_1 ( value=-0.00 )
+299.483 Zhadokmage performs phoenixs_flames (1112441)
+300.000 Fluffy_Pillow loses bleeding
+300.000 Fluffy_Pillow loses mortal_wounds
+300.000 Zhadokmage loses exhaustion
+300.000 Zhadokmage loses heating_up
+300.000 Zhadokmage loses pyretic_incantation
+300.000 Zhadokmage loses flask_of_the_whispered_pact
+300.000 Zhadokmage loses the_hungry_magister
+300.000 Zhadokmage loses defiled_augmentation

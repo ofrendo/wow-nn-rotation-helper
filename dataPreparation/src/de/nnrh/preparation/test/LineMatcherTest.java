@@ -40,9 +40,11 @@ public class LineMatcherTest {
 		testLine("1.294 Zhadokmage loses casting", 1);
 		testLine("0.000 Fluffy_Pillow gains Health Decade (90 - 100)_1 ( value=-0.00 )", 1);
 		testLine("0.000 Fluffy_Pillow gains mortal_wounds_1 ( value=0.25 )", 1);
-		testLine("0.000 Fluffy_Pillow gains bleeding_1 ( value=1.00 )", 1);		
+		testLine("0.000 Fluffy_Pillow gains bleeding_1 ( value=1.00 )", 1);	
+		
 		testLine("0.000 Fluffy_Pillow gains bleeding_12 ( value=1.00 )", 0); // other bleeding debuffs should be allowed		
-		testLine("0.000 Zhadokmage gains potion_of_deadly_grace_1 ( value=-0.00 )", 1);
+		testLine("0.000 Zhadokmage gains potion_of_deadly_grace_1 ( value=-0.00 )", 0);
+		testLine("300.000 Zhadokmage loses flask_of_the_whispered_pact", 1);
 		
 		// Remove "hit" messages
 		testLine("0.750 Zhadokmage pyroblast hits Fluffy_Pillow for 431028 fire damage (crit)", 1);

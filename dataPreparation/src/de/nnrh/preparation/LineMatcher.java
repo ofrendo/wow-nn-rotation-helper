@@ -23,7 +23,7 @@ public class LineMatcher {
 			"consumes",
 			//"schedules, // probably need this to see which spells are passive and which are active
 			"schedules\\stravel",
-			"demises"			
+			"demises"
 	};
 	
 	// Any spells that are not allowed that occur after "performs"
@@ -33,6 +33,9 @@ public class LineMatcher {
 			"mark_of_the_hidden_satyr", // Is "performed" upon a proc
 			"spread", // example:  Zhadokmage ignite spread event occurs
 			"ticks" // example: Zhadokmage ignite ticks (1 of 9) Fluffy_Pillow for 8279 fire damage (hit)
+			
+			// Specific stuff...
+			, "maddening_whispers" // this gets "performed" after 10 stacks
 	};
 	
 	// Any buffs that are not allowed that occur after "gains"
@@ -42,6 +45,8 @@ public class LineMatcher {
 			"Health",
 			"mortal_wounds_1",
 			"bleeding_1",
+			"flask_\\w+",
+			"defiled_augmentation",
 			//"potion_of_\\w+\\d" // "Performs potion" should be kept, not "gains potion_of_x"
 			// Food and flask should be caught by above disallowedSpells
 	};

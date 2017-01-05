@@ -1,2 +1,13 @@
 *.log
 *.csv
+.Rproj.user
+
+trainModel/Keras (Python)/
+trainModel/Torch (Lua)/
+
+data/csv/*.csv
+data/logs/*.txt
+
+
+
+

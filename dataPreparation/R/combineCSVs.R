@@ -14,5 +14,9 @@ for (fileName in fileNames) {
 
 result[is.na(result)] <- 0
 
+# move LABEL to last column
+tempLABEL <- result$LABEL
+result$LABEL <- NULL
+result$LABEL <- tempLABEL
 
-write.table(result, output, sep=";", quote=F)
+write.table(result, output, sep=";", quote=F, row.names=F)

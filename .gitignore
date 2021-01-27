@@ -4,6 +4,7 @@
 
 trainModel/Keras (Python)/
 trainModel/Torch (Lua)/
+trainModel/DL4J (Java)/
 
 data/csv/*.csv
 data/logs/*.txt
